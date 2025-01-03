@@ -4,8 +4,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Janavi Chauhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi, I'm Janavi Chauhan</h1>
+<h3>A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janavi-185&label=Profile%20views&color=0e75b6&style=flat" alt="janavi-185" /> </p>
 

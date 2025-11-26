@@ -1,4 +1,4 @@
-# 🌸 **Janavi Chauhan**
+# **Janavi Chauhan**
 ### **Frontend Developer | Crafting clean UI & smooth user experiences**
 
 <p align="left">

@@ -42,10 +42,11 @@
 
 ---
 
-## 📌 **GitHub Stats**
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=janavi-185&show_icons=true&theme=rose_pine" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Prince-695&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Prince-695&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-695&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 

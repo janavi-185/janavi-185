@@ -51,11 +51,11 @@
 ---
 
 ## 🎯 Currently Learning  
-- 📌 Core Frontend Concepts  
-- 🎨 UI design & responsiveness  
-- ⚛️ React fundamentals  
-- 🔄 Next.js basics & routing  
-- 🎯 Tailwind CSS for faster styling  
+- Backend fundamentals  
+- REST APIs & authentication  
+- Node.js & Express  
+- Databases (MySQL, PostgreSQL)  
+- Frontend–backend integration   
 
 ---
 

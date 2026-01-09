@@ -1,59 +1,73 @@
-# **Janavi Chauhan**
-### **Frontend Developer | Crafting clean UI & smooth user experiences**
+# 👩‍💻 Janavi Chauhan  
+### Frontend Developer | Learning to build clean & user-friendly web interfaces
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=janavi-185&label=Profile%20Views&color=ff69b4&style=flat" alt="janavi-185" />
+  <img src="https://komarev.com/ghpvc/?username=janavi-185&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🚀 **About Me**
-✨ Passionate about building responsive, modern, and aesthetic web interfaces  
-✨ Love working with React, Next.js, Tailwind, and clean UI design  
-✨ Always learning, experimenting, and improving  
+## 🚀 About Me  
+✨ Frontend developer **learning and exploring modern web development**  
+✨ Interested in creating **clean, responsive, and user-friendly UIs**  
+✨ Working with **React, Next.js, and Tailwind CSS**  
+✨ Curious, consistent, and always improving through practice  
 
 ---
 
-## 🔗 **Connect With Me**
-
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_janavi.18/profilecard/?igsh=MWlnMXBpdmN1ZmY3aQ==) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/janavi-chauhan-87a611283/) 
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_janavi_18) 
-  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chauhanjanavi06@gmail.com) 
-
-
----
-
-## 🛠️ **Tech Stack & Tools**
+## 🔗 Connect With Me  
 <p align="left">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" />
-
+  <a href="https://www.instagram.com/_janavi.18/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/janavi-chauhan-87a611283/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/_janavi_18" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
+  </a>
+  <a href="mailto:chauhanjanavi06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=janavi-185&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=janavi-185&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+## 🛠️ Tech Stack & Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
+</p>
 
 ---
 
-## 🎨 **My Focus**
-- Frontend Development  
-- UI/UX improvement  
-- Building full-stack projects with clean code  
-- React • Next.js • Tailwind CSS  
+## 🎯 Currently Learning  
+- 📌 Core Frontend Concepts  
+- 🎨 UI design & responsiveness  
+- ⚛️ React fundamentals  
+- 🔄 Next.js basics & routing  
+- 🎯 Tailwind CSS for faster styling  
 
+---
 
+## 📊 GitHub Stats  
+<p align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=janavi-185&theme=dark"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janavi-185&theme=dark&layout=compact"/>
+</p>
+
+---
+
+🌱 *Learning every day, one project at a time.*

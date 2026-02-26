@@ -5,15 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=janavi-185&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
 </p>
 
----
-
 ## 🚀 About Me  
 ✨ Frontend developer **learning and exploring modern web development**  
 ✨ Interested in creating **clean, responsive, and user-friendly UIs**  
 ✨ Working with **React, Next.js, and Tailwind CSS**  
 ✨ Curious, consistent, and always improving through practice  
 
----
 
 ## 🔗 Connect With Me  
 <p align="left">
@@ -31,7 +28,6 @@
   </a>
 </p>
 
----
 
 ## 🛠️ Tech Stack & Tools  
 <p align="left">
@@ -48,16 +44,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
 </p>
 
----
-
 ## 🎯 Currently Learning  
 - Backend fundamentals  
 - REST APIs & authentication  
 - Node.js & Express  
 - Databases (MySQL, PostgreSQL)  
 - Frontend–backend integration   
-
----
 
 ## 📊 GitHub Stats  
 <p align="left">
@@ -68,6 +60,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janavi-185&theme=dark&layout=compact"/>
 </p>
 
----
 
 🌱 *Learning every day, one project at a time.*

@@ -52,13 +52,13 @@
 - Frontend–backend integration   
 
 ## 📊 GitHub Stats  
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=janavi-185&theme=dark"/>
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janavi-185&theme=dark&layout=compact"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=janavi-185&theme=carbonfox" alt="Streak" />   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janavi-185&theme=dark&layout=compact"/>
+</div>
+
+
 
 
 🌱 *Learning every day, one project at a time.*

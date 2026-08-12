@@ -1,64 +1,51 @@
-# 👩‍💻 Janavi Chauhan  
-### Frontend Developer | Learning to build clean & user-friendly web interfaces
+<h1 align="center">
+  Hi, I'm Janavi Chauhan 🎀
+</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=janavi-185&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
+<p align="center">
+  <b><i><span style="color:#D6336C; font-size:20px;">Exploring the endless rabbit hole of tech</span></i></b>
 </p>
 
-## 🚀 About Me  
-✨ Frontend developer **learning and exploring modern web development**  
-✨ Interested in creating **clean, responsive, and user-friendly UIs**  
-✨ Working with **React, Next.js, and Tailwind CSS**  
-✨ Curious, consistent, and always improving through practice  
+## About Me
 
+- B.Tech CS (AI & ML) student at Adani University, graduating May 2027
+- Learning and exploring **modern full-stack development**
+- Focused on **clean, responsive, user-friendly Apps and webapps**
+- Also comfortable working across the stack when a project needs it
+- Currently exploring concepts that make me say **"wait... how does this work?"**
 
-## 🔗 Connect With Me  
-<p align="left">
-  <a href="https://www.instagram.com/_janavi.18/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>
+## Let's Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/janavi-chauhan-87a611283/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-4db8ff?style=for-the-badge&logo=linkedin&logoColor=0d1117"/>
+  </a>
+  <a href="https://www.instagram.com/_janavi.18/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff6fa5?style=for-the-badge&logo=instagram&logoColor=0d1117"/>
   </a>
   <a href="https://x.com/_janavi_18" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-ff2e63?style=for-the-badge&logo=twitter&logoColor=0d1117"/>
   </a>
   <a href="mailto:chauhanjanavi06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-ffb703?style=for-the-badge&logo=gmail&logoColor=0d1117"/>
   </a>
 </p>
 
+## Toolkit
 
-## 🛠️ Tech Stack & Tools  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,dart,java,react,nextjs,html,css,tailwind,nodejs,express,postgres,mongodb,flutter,firebase,docker,git,figma,vercel&theme=dark&perline=8" />
 </p>
 
-## 🎯 Currently Learning  
-- Backend fundamentals  
-- REST APIs & authentication  
-- Node.js & Express  
-- Databases (MySQL, PostgreSQL)  
-- Frontend–backend integration   
+## GitHub Stats
 
-## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=janavi-185&theme=carbonfox" alt="Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janavi-185&theme=dark&layout=compact" width="49%" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=janavi-185&theme=carbonfox" alt="Streak" />   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janavi-185&theme=dark&layout=compact"/>
-</div>
+<br>
 
-
-
-
-🌱 *Learning every day, one project at a time.*
+<p align="center">
+  🌸 <i>Learning every day, one project at a time.</i> 🌸
+</p>
